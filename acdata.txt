@@ -1,0 +1,5 @@
+// status	0x1 Transaction mined and execution succeed
+// transaction hash	0x07c2ab3d0c93d8b2f72b12013780d4bfa91e370cfc09eab8f7b35a43600b6c13
+// block hash	0xa37c2a5f7bcacc848cd93b239ef39733da1fffcf3f0cd67cbaef5bdb6fe04c7a
+// block number	7317172
+// contract address	0x07064227d45675aa31a7b3df9e483836f8a90ccb
